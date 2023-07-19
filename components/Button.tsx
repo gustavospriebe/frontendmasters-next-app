@@ -9,7 +9,7 @@ const buttonClasses = cva(
       "active:scale-100",
       "transition",
       "duration-200",
-    "ease-in-out",
+      "ease-in-out",
     ],
     {
       variants: {
